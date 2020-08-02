@@ -16,8 +16,8 @@ wa<-read.csv('washington.csv')
 cities <- c('ch','ny','wa')
 city.name <- c("Chicago", "New York", "Washington")
 
-## Question 1
-# 1: Date information - Using the start time, what is the most common month, day and start time for each city? 
+## Question 1 - Date information: Using the start time, what is the most common month, day and start time for each city? 
+
 # Set up holder lists for histograms
 plot.m = list() 
 plot.d = list() 
@@ -71,7 +71,7 @@ grid.arrange(plot.d[[1]], plot.d[[2]],plot.d[[3]], ncol=3)
 # What is the most common hour of day? 
 grid.arrange(plot.h[[1]], plot.h[[2]],plot.h[[3]], ncol=3)
 
-# 2. Popular stations and trip 
+# Question 2 - Popular stations and trip 
 # Create a function to return summary stats of popular trips, including the most common start station, end station, and trip.
 # For the most common trip for each city, what is the average trip duration? 
 
