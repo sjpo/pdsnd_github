@@ -16,6 +16,7 @@ wa<-read.csv('washington.csv')
 cities <- c('ch','ny','wa')
 city.name <- c("Chicago", "New York", "Washington")
 
+## Question 1
 # 1: Date information - Using the start time, what is the most common month, day and start time for each city? 
 # Set up holder lists for histograms
 plot.m = list() 
