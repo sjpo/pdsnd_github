@@ -1,4 +1,7 @@
 ## BikeShare Project EDA
+# Created by Sarah Perry 
+
+# Libraries required 
 library(tidyverse) 
 library(lubridate)
 library(gridExtra)
