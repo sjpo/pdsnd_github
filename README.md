@@ -8,8 +8,13 @@ Bikeshare Assignment EDA
 Exploratory data analysis for bikeshare data in R created for Udacity course
 
 ### Files used
-Include the files used
+bikeshare_project_EDA.R 
+chicago.csv		new_york_city.csv	washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+This was created following Udacity course:
+https://www.udacity.com/course/programming-for-data-science-nanodegree-with-R--nd118 
+
+The repo is forked from: 
+https://github.com/udacity/pdsnd_github 
